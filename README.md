@@ -1,28 +1,33 @@
 # Curso de JavaScript
 
-## Tópico 1: Introdução ao JavaScript
+Bem-vindo ao Curso de JavaScript! Abaixo estão os tópicos que abordaremos ao longo do curso:
 
-O JavaScript é uma linguagem de programação amplamente utilizada para desenvolvimento web. Neste tópico introdutório, vamos explorar o básico dessa linguagem e entender sua importância no cenário atual da tecnologia.
+1. [Introdução ao JavaScript](introducao.md)
+2. [Sintaxe Básica](sintaxe_basica.md)
+    - [Variáveis](variaveis.md)
+    - [Constantes](constantes.md)
+    - [Tipos de Dados](tipos_dados.md)
+    - [Operadores](operadores.md)
+3. [Funções](funcoes.md)
+    - [Declaração de Funções](declaracao_funcoes.md)
+    - [Parâmetros e Retorno](parametros_retorno.md)
+    - [Escopo de Variáveis](escopo.md)
+    - [Funções Anônimas](funcoes_anonimas.md)
+    - [Arrow Functions](arrow_functions.md)
+4. [Arrays](arrays.md)
+    - [Criação e Manipulação](criacao_manipulacao.md)
+    - [Métodos de Array](metodos_array.md)
+5. [Objetos](objetos.md)
+    - [Criação e Manipulação](criacao_manipulacao_objetos.md)
+    - [Propriedades e Métodos](propriedades_metodos.md)
+6. [Estruturas de Controle](estruturas_controle.md)
+    - Condicionais (if, else if, else)
+    - Loops (for, while, do-while)
+7. [Manipulação do DOM](dom.md)
+8. [Eventos](eventos.md)
+9. [AJAX e Fetch API](ajax_fetch.md)
+10. [Promises e Async/Await](promises_async_await.md)
+11. [ES6+ e Recursos Avançados](es6_recursos_avancados.md)
+12. [Frameworks e Bibliotecas](frameworks_bibliotecas.md)
 
-### História e Contexto
-
-JavaScript foi originalmente desenvolvido por Brendan Eich em 1995, enquanto trabalhava na Netscape Communications Corporation. Inicialmente, era conhecido como LiveScript, mas foi renomeado para JavaScript quando foi licenciado para a Sun Microsystems.
-
-JavaScript tornou-se rapidamente uma das linguagens mais populares do mundo, impulsionando a interatividade das páginas da web e permitindo o desenvolvimento de aplicações web dinâmicas e ricas.
-
-### Importância e Aplicações Atuais
-
-Com o avanço da web e a crescente demanda por experiências interativas, o JavaScript se tornou uma peça fundamental no desenvolvimento web moderno. Aqui estão algumas das principais razões para aprender JavaScript:
-
-- **Desenvolvimento Frontend**: JavaScript é a linguagem padrão para programação do lado do cliente. Ele é usado para criar interatividade em páginas da web, como animações, validação de formulários e manipulação do DOM.
-  
-- **Desenvolvimento Backend**: Com o advento do Node.js, JavaScript também pode ser usado no lado do servidor para construir aplicativos web escaláveis e de alto desempenho.
-
-- **Frameworks e Bibliotecas**: Existem inúmeras bibliotecas e frameworks JavaScript, como React, Angular e Vue.js, que simplificam o desenvolvimento de aplicativos web complexos e sofisticados.
-
-- **Mercado de Trabalho**: Há uma demanda crescente por desenvolvedores proficientes em JavaScript. Dominar essa linguagem pode abrir portas para uma variedade de oportunidades de carreira no setor de tecnologia.
-
-Compreender os fundamentos do JavaScript é o primeiro passo para se tornar um desenvolvedor web habilidoso. Nos próximos tópicos, exploraremos a sintaxe básica da linguagem, tipos de dados, funções e muito mais.
-
-Continue acompanhando o curso para mergulhar mais fundo no mundo fascinante do JavaScript!
-
+Ao clicar nos links acima, você será direcionado para o arquivo Markdown correspondente, onde poderá aprender mais sobre cada tópico. Bom aprendizado!
