@@ -27,7 +27,4 @@ Bem-vindo ao Curso de JavaScript! Abaixo estão os tópicos que abordaremos ao l
 8. [Eventos](eventos.md)
 9. [AJAX e Fetch API](ajax_fetch.md)
 10. [Promises e Async/Await](promises_async_await.md)
-11. [ES6+ e Recursos Avançados](es6_recursos_avancados.md)
-12. [Frameworks e Bibliotecas](frameworks_bibliotecas.md)
 
-Ao clicar nos links acima, você será direcionado para o arquivo Markdown correspondente, onde poderá aprender mais sobre cada tópico. Bom aprendizado!
